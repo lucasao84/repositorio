@@ -169,7 +169,7 @@ var MENU = {
         },
         {
             "id": "best-seller-cupcake-dozen",
-            "img": "./img/cardapio/AÇAI/best-seller-cupcake-dozen.f93b21993f6a2da11c975d45b9b0d08ff.jpg",
+            "img": "./img/cardapio/AÇAI/ff.jpg",
             "name": "MIX COMPLETO",
             "dsc": "LEITE EM PÓ, AÇAI, LEITE CONDESADO, GRANOLA, MAÇA, MORANGO E BANANA",
             "price": 25.00
